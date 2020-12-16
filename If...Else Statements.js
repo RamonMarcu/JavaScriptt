@@ -8,7 +8,7 @@ if(true) {
   console.log('Time to wait for a sale.')
 }
 
-// if run, the code block log to the console: Time to buy!
+// if run, the result will be: Time to buy!
 
 let sale = true;
 
@@ -20,4 +20,4 @@ if(false) {
   console.log('Time to wait for a sale.')
 }
 
-// if run, the code block log to the console: Time to wait for a sale.
+// if run, the result will be: Time to wait for a sale.
